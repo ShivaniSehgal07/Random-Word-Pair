@@ -1,16 +1,13 @@
-# namer_app
+# Random Word Namer App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Basic Flutter App that shows Random Word Pairs
 
-A few resources to get you started if this is your first Flutter project:
+The use can like the word pairs and see them later in their favorites list
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/f6a0b423-42b4-476c-8ff1-07a5a66a01fe)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/a4f1717f-f4ba-43c3-8c06-67a2585607c4)
